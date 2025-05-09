@@ -63,3 +63,12 @@ if (sa<='016330034'){
     console.log('what')
 }
 
+
+let s = 'saharian';
+
+if (s==='sahrian'){
+    console.log('hi')
+} else{
+    console.log('no')
+    
+}
