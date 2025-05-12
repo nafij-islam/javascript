@@ -1,100 +1,87 @@
-// //variable 
+// variable 
 
 
 
+let x= 20;
 
-// // let x= 20;
-
-// // let y= 30;
-
+let y= 30;
 
 
-// // if (x>=20) {
-// //     console.log("how are you")
+
+if (x>=20) {
+    console.log("how are you")
     
-// // }else {
-// //     console.log("what")
-// // }
+}else {
+    console.log("what")
+}
 
 
 
 
-// // console.log('hello world');
+console.log('hello world');
 
-// // document.getElementById('title').innerHTML="how are you"
+document.getElementById('title').innerHTML="how are you"
 
-// // let sum= 40+50;
+let sum= 40+50;
 
-// // console.log(sum);
-
-
-
-// // let x=200;
-// // let y=100;
-
-// // if (x<300){
-// //     console.log('hi')
-// // }else{
-// //     console.log('what')
-// // }
-
-
-
-// let x=50;
-
-// if (x>=40){
-//     console.log('boro')
-// }else{
-//     console.log('chuto')
-// }
+console.log(sum);
 
 
 
 
-// let sa = '01633003462';
+let sa = '01633003462';
 
 
-// if (sa<='016330034'){
+if (sa<='016330034'){
     
-//     console.log('right');
+    console.log('right');
 
 
-// } else{
-//     console.log('what')
-// }
+} else{
+    console.log('what')
+}
 
 
-// let s = 'saharian';
+let s = 'saharian';
 
-// if (s==='sahrian'){
-//     console.log('hi')
-// } else{
-//     console.log('no')
+if (s==='sahrian'){
+    console.log('hi')
+} else{
+    console.log('no')
     
-// }
+}
+
+// football macth condition
 
 let age = 17;
+let country = "brazil";
+let gender = "mail";
+let height = 5;
+let experience = true;
+let medicalreport = "pass";
+let ifdraguser = false;
+let traningYears = 1;
+let criminalRecord = "none";
+let english = "good";
 
-let country = 'brazil';
 
-let gender = 'mail';
-
-
-if (age>=17){
-    console.log("next stap")
+if ( age >= 17 &&
+     country =="brazil" &&
+     gender == "mail" &&
+     height <=  5 &&
+     experience == true &&
+     medicalreport == "pass" &&
+     ifdraguser == false &&
+     traningYears <=2 &&
+     criminalRecord == "none" &&
+     english == "good"
+     
+){
+    console.log("pass")
 }else{
-    console.log("error")
+    console.log("false")
 }
 
-if (country == "brazil"){
-    console.log('next stap')
-}else{
-    console.log("error")
-}
 
-if(gender == "mail"){
-    console.log("next stap")
 
-}else{
-    console.log("error")
-}
+
