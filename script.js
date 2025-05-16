@@ -1,4 +1,59 @@
 // variable 
+// COndition
+// Loop
+
+
+
+
+/*
+*Variable
+
+Let  FirstName = "Nafis";
+
+Let ---       Variable
+
+FirstName---  Variable ke chinar jonno/verify korar jonno akta name
+
+"NAfis"---    variable  ar Man/value
+
+*/
+
+
+/*========================
+        Condition
+ =========================*/
+
+/*
+
+
+                     !Condition
+
+
+* Condition Ar mane Hocce === Jodi tar result GPA 5 hoy tahole she
+
+?print
+!Console.log("Pass")
+
+
+*jodi tar result  GPA 5 ar nise thake tahole 
+
+!Console.log("Fail")
+
+?  if (Store GPA5 == student GPA 5  ) jodi pass hoy tahole
+
+?print
+
+?{Console.log("pass")}
+
+
+
+
+
+^Condition
+
+
+
+*/
 
 
 
@@ -113,4 +168,7 @@ if (a== 2 &&
 alert('how are you')
 alert("hi")
 
-
+ 
+/*========================
+         loop
+==========================*/
