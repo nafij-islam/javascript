@@ -85,3 +85,27 @@ if ( age >= 17 &&
 
 
 
+// 
+
+
+
+var aa = 'nafis islam';
+
+if (aa =='nafis islam'){
+    console.log('hello')
+}
+
+// aaaaaaaaaaaaaaaaaaaaaaaa
+
+
+let a = 2;
+let b = 3;
+
+if (a== 2 &&
+    b == 3
+){
+    console.log('hhhhh')
+}else(
+    console.log('not')
+)
+
