@@ -10,11 +10,11 @@
 
 Let  FirstName = "Nafis";
 
-Let ---       Variable
+!Let ---       Variable datar location dore rhakar akta store
 
-FirstName---  Variable ke chinar jonno/verify korar jonno akta name
+!FirstName---  Variable ke chinar jonno/verify korar jonno akta 
 
-"NAfis"---    variable  ar Man/value
+!"NAfis"---    variable  ar Man/value
 
 */
 
@@ -85,14 +85,23 @@ console.log(sum);
 
 
 let sa = '01633003462';
+let salary = 20000;
+let ag = 20;
 
 
-if (sa<='016330034'){
+if (sa<='01633003462'){
+    if(salary > 15000){
+        if(ag>=19){
+            console.log("ag thik acha")
+        }else{
+            console.log("ag aro baraw")
+        }
+    }else{
+        console.log("biya korte parba na")
+    }
     
-    console.log('right');
-
-
-} else{
+    
+}else{
     console.log('what')
 }
 
@@ -165,10 +174,22 @@ if (a== 2 &&
 )
 
 
-alert('how are you')
-alert("hi")
 
  
 /*========================
          loop
 ==========================*/
+
+/*
+
+*LOOP Ar Mane hocce ja kunu akta Content ba string/number Repeat kora /  bar bar dekanu 
+
+
+*/
+
+// let u = "My Name is Saharian Nafis";
+
+
+for(let u=0;u<10;u++){
+     console.log("hello",u)
+}
