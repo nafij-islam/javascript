@@ -109,3 +109,8 @@ if (a== 2 &&
     console.log('not')
 )
 
+
+alert('how are you')
+alert("hi")
+
+
