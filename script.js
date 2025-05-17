@@ -206,9 +206,57 @@ if (a== 2 &&
 */
 
 
+/*
 
 let namta=67
 
 for(let i=1; i<=10;i++){
      console.log(namta+" X "+i+" = "+ namta*i);
 }
+
+
+*/
+
+
+
+/*
+*2 X 1 = 2
+*2 X 2 = 4
+*/
+
+let namta = 20
+
+for (let  i=1; i<=10; i++) {
+    if(i==5){
+        console.log("this is numver five")
+    }
+    
+}
+
+
+
+/*
+* while loop
+*/
+
+let i=0
+
+while(i<10){
+    console.log("this is right",i);
+    i++
+}
+
+
+
+
+/*
+* do while loop
+*/
+
+
+let u=0
+
+do{
+    console.log("how are you",u);
+    u++
+}while(u<10)
