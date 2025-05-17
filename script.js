@@ -190,6 +190,25 @@ if (a== 2 &&
 // let u = "My Name is Saharian Nafis";
 
 
-for(let u=0;u<10;u++){
-     console.log("hello",u)
+
+
+
+
+/*
+*2 X 1 = 2
+*2 X 2 = 4
+*/
+
+/*
+!Loop
+
+*for(Intialvalue; Condition; iteration) 
+*/
+
+
+
+let namta=67
+
+for(let i=1; i<=10;i++){
+     console.log(namta+" X "+i+" = "+ namta*i);
 }
