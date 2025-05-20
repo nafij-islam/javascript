@@ -159,19 +159,19 @@
 //     console.log('hello')
 // }
 
-// // aaaaaaaaaaaaaaaaaaaaaaaa
+// // // aaaaaaaaaaaaaaaaaaaaaaaa
 
 
-let a = 2;
-let b = 3;
+// let a = 2;
+// let b = 3;
 
-if (a== 2 &&
-    b == 3
-){
-    console.log('hhhhh')
-}else(
-    console.log('not')
-)
+// if (a== 2 &&
+//     b == 3
+// ){
+//     console.log('hhhhh')
+// }else(
+//     console.log('not')
+// )
 
 
 
@@ -239,12 +239,12 @@ if (a== 2 &&
 // * while loop
 // */
 
-let i=0
+// let i=0
 
-while(i<10){
-    console.log("this is right",i);
-    i++
-}
+// while(i<10){
+//     console.log("this is right",i);
+//     i++
+// }
 
 
 
@@ -264,18 +264,58 @@ while(i<10){
 //     if
 
 
+// let a =Number(prompt("Enter Your fast Number"))
+// let b =Number(prompt("Enter Your fast Number"))
+
+// for(let i=a; i<=b;i++){
+//     console.log("================start=============",i)
+   
+//     for(let j=1; j<=5;j++){
+//         console.log("___________END__________",j);
+       
+//         for(let k=1; k<=3;k++){
+//             console.log("----------SSSSSS---------",k);
+           
+//             for(let l=1; l<=2;l++){
+//                 console.log("=-=-=-=-=-=-KKKKKK=-=-=-=-=-",l);
+//             }
+//         }
+
+//     }
+
+    
+    
+// }
 
 
+// 5 X 1 = 5 
 
-for(let i=1; i<5;i++){
-    if(i>4){
-        console.log("this is four");
-    }
-    console.log("this is java script nasted loop",i);
-    for(let j=1; j<=10;j++){
-        if(j>10){
-            console.log("thi is");
+
+let n =Number(prompt("Enter Your Number"))
+let m =Number(prompt("Enter Your last Number"))
+let reject =Number(prompt("Enter Your last Number"))
+
+for(let i=n; i<=m;i++){
+    if(i!=reject){
+        console.log("======== " +i+ " Number start======");
+           for(let j=1;j<=10;j++){
+            if(i*j !=30){
+                if(i*j !=40){
+                    if(i*j !=50){
+                         
+                        console.log(i+" X "+j+" = "+i*j);
+
+                    }
+                }
+            }
+           
         }
-        console.log("this is nasted",j);
+        if(i==m){
+            console.log("all end");
+        }else{
+            console.log("======= " +i+ " is end===========");
+        }
     }
 }
+
+
