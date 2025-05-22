@@ -289,7 +289,7 @@
 
 
 // 5 X 1 = 5 
-
+/*
 
 let n =Number(prompt("Enter Your Number"))
 let m =Number(prompt("Enter Your last Number"))
@@ -317,5 +317,41 @@ for(let i=n; i<=m;i++){
         }
     }
 }
+*/
+
+
+
+/*
+*array 
+*/
+
+let a=[{
+    name:"Nafis",
+    email:"sahariannafis70gmail.com",
+    age:"17"
+},
+
+{
+    name:"Rihan",
+    email:"sahariannafis70gmail.com",
+    age:"13"
+},
+{
+    name:"Sajib",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"Sajib",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+}
+]
+
+
+console.log(a[3].name);
+
+
+
 
 
