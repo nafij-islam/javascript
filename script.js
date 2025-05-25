@@ -337,20 +337,112 @@ let a=[{
     age:"13"
 },
 {
-    name:"Sajib",
+    name:"talha",
     email:"sahariannafis70gmail.com",
     age:"15"
 },
 {
-    name:"Sajib",
+    name:"prokas",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rajib",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"munna",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"akil",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"hasem",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"karim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
+    email:"sahariannafis70gmail.com",
+    age:"15"
+},
+{
+    name:"rahim",
     email:"sahariannafis70gmail.com",
     age:"15"
 }
 ]
 
 
-console.log(a[3].name);
+// for(let i=0;i<a.length;i++){
+//     if (i==2) {
+//         console.log(a[i]);
+        
+//     }
+        
+// }
+    
+a.map(item=>{
+    console.log(item.email);
+    
 
+})
+    
+
+
+/*
+!video play 34 minit
+*/
 
 
 
