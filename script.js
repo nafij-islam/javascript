@@ -289,35 +289,9 @@
 
 
 // 5 X 1 = 5 
-/*
 
-let n =Number(prompt("Enter Your Number"))
-let m =Number(prompt("Enter Your last Number"))
-let reject =Number(prompt("Enter Your last Number"))
+//  
 
-for(let i=n; i<=m;i++){
-    if(i!=reject){
-        console.log("======== " +i+ " Number start======");
-           for(let j=1;j<=10;j++){
-            if(i*j !=30){
-                if(i*j !=40){
-                    if(i*j !=50){
-                         
-                        console.log(i+" X "+j+" = "+i*j);
-
-                    }
-                }
-            }
-           
-        }
-        if(i==m){
-            console.log("all end");
-        }else{
-            console.log("======= " +i+ " is end===========");
-        }
-    }
-}
-*/
 
 
 
