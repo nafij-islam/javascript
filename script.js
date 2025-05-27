@@ -407,7 +407,9 @@ let a=[{
 // }
     
 a.map(item=>{
-    console.log(item.email);
+   
+    console.log(item.name);
+     console.log(item.email);
     
 
 })
