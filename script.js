@@ -264,28 +264,28 @@
 //     if
 
 
-let a =Number(prompt("Enter Your fast Number"))
-let b =Number(prompt("Enter Your fast Number"))
+// let a =Number(prompt("Enter Your fast Number"))
+// let b =Number(prompt("Enter Your fast Number"))
 
-for(let i=a; i<=b;i++){
-    console.log("================start=============",i)
+// for(let i=a; i<=b;i++){
+//     console.log("================start=============",i)
    
-    for(let j=1; j<=5;j++){
-        console.log("___________END__________",j);
+//     for(let j=1; j<=5;j++){
+//         console.log("___________END__________",j);
        
-        for(let k=1; k<=3;k++){
-            console.log("----------SSSSSS---------",k);
+//         for(let k=1; k<=3;k++){
+//             console.log("----------SSSSSS---------",k);
            
-            for(let l=1; l<=2;l++){
-                console.log("=-=-=-=-=-=-KKKKKK=-=-=-=-=-",l);
-            }
-        }
+//             for(let l=1; l<=2;l++){
+//                 console.log("=-=-=-=-=-=-KKKKKK=-=-=-=-=-",l);
+//             }
+//         }
 
-    }
+//     }
 
     
     
-}
+// }
 
 
 // 5 X 1 = 5 
@@ -448,6 +448,35 @@ console.log(k%l);
 
 
 
+let w =300
+let m=400
+let y=700
+
+if (w<m && m>y) {
+    console.log("this is number");
+    
+    
+}else{
+    console.log("this is not number");
+    
+}
+
+
+
+// ==================================
+
+
+
+let vaoul=prompt("Enter a vaoul")
+
+if(vaoul==="a" || vaoul==="e" || vaoul==="i" || vaoul==="o"){
+     
+    console.log("this is vaoul ");
+     
+}else{
+    console.log("this is not a vaoul");
+    
+}
 
 
 
