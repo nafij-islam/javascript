@@ -65,7 +65,7 @@
 
 // if (x>=20) {
 //     console.log("how are you")
-    
+
 // }else {
 //     console.log("what")
 // }
@@ -99,8 +99,8 @@
 //     }else{
 //         console.log("biya korte parba na")
 //     }
-    
-    
+
+
 // }else{
 //     console.log('what')
 // }
@@ -112,7 +112,7 @@
 //     console.log('hi')
 // } else{
 //     console.log('no')
-    
+
 // }
 
 // // football macth condition
@@ -139,7 +139,7 @@
 //      traningYears <=2 &&
 //      criminalRecord == "none" &&
 //      english == "good"
-     
+
 // ){
 //     console.log("pass")
 // }else{
@@ -175,7 +175,7 @@
 
 
 
- 
+
 // /*========================
 //          loop
 // ==========================*/
@@ -230,7 +230,7 @@
 //     if(i==5){
 //         console.log("this is numver five")
 //     }
-    
+
 // }
 
 
@@ -269,13 +269,13 @@
 
 // for(let i=a; i<=b;i++){
 //     console.log("================start=============",i)
-   
+
 //     for(let j=1; j<=5;j++){
 //         console.log("___________END__________",j);
-       
+
 //         for(let k=1; k<=3;k++){
 //             console.log("----------SSSSSS---------",k);
-           
+
 //             for(let l=1; l<=2;l++){
 //                 console.log("=-=-=-=-=-=-KKKKKK=-=-=-=-=-",l);
 //             }
@@ -283,8 +283,8 @@
 
 //     }
 
-    
-    
+
+
 // }
 
 
@@ -299,101 +299,101 @@
 *array 
 */
 
-let o=[{
-    name:"Nafis",
-    email:"sahariannafis70gmail.com",
-    age:"17"
+let o = [{
+    name: "Nafis",
+    email: "sahariannafis70gmail.com",
+    age: "17"
 },
 
 {
-    name:"Rihan",
-    email:"sahariannafis70gmail.com",
-    age:"13"
+    name: "Rihan",
+    email: "sahariannafis70gmail.com",
+    age: "13"
 },
 {
-    name:"talha",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "talha",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"prokas",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "prokas",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rajib",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rajib",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"munna",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "munna",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"akil",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "akil",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"hasem",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "hasem",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"karim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "karim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 },
 {
-    name:"rahim",
-    email:"sahariannafis70gmail.com",
-    age:"15"
+    name: "rahim",
+    email: "sahariannafis70gmail.com",
+    age: "15"
 }
 ]
 
@@ -401,24 +401,24 @@ let o=[{
 // for(let i=0;i<a.length;i++){
 //     if (i==2) {
 //         console.log(a[i]);
-        
+
 //     }
-        
+
 // }
 
 
 /*
 *map
 */
-    
+
 // a.map(item=>{
-   
+
 //     console.log(item.name);
 //      console.log(item.email);
-    
+
 
 // })
-    
+
 
 
 /*
@@ -432,34 +432,34 @@ let o=[{
 *
 */
 
-let k=50
-let l=30
-result = k+l
+let k = 50
+let l = 30
+result = k + l
 
 
 
 console.log("this is addition " + result);
 
-console.log(k-l);
+console.log(k - l);
 
-console.log(k/l);
+console.log(k / l);
 
-console.log(k%l);
+console.log(k % l);
 
 
 
-let w =300
-let m=400
-let y=700
+// let w =300
+// let m=400
+// let y=700
 
-if (w<m && m>y) {
-    console.log("this is number");
-    
-    
-}else{
-    console.log("this is not number");
-    
-}
+// if (w<m && m>y) {
+//     console.log("this is number");
+
+
+// }else{
+//     console.log("this is not number");
+
+// }
 
 
 
@@ -467,16 +467,50 @@ if (w<m && m>y) {
 
 
 
-let vaoul=prompt("Enter a vaoul")
+// let vaoul=prompt("Enter a vaoul")
 
-if(vaoul==="a" || vaoul==="e" || vaoul==="i" || vaoul==="o"){
-     
-    console.log("this is vaoul ");
-     
-}else{
-    console.log("this is not a vaoul");
-    
+// if(vaoul==="a" || vaoul==="e" || vaoul==="i" || vaoul==="o"){
+
+//     console.log("this is vaoul ");
+
+// }else{
+//     console.log("this is not a vaoul");
+
+// }
+
+let A = 30
+
+
+switch (A) {
+    case 20:
+        console.log("this is number 20");
+        break;
+    case 40:
+        console.log("this is number 40");
+        break;
+    case 30:
+        console.log("this is number 30");
+        break;
+
+    default:
+        console.log("this is rong number");
+
 }
+
+
+let x = 30
+let y = 50
+let z = 70
+
+x == 30 ? y == 50 ? z == 70 ? 
+console.log("z this is number 70") : 
+console.log("z is not numebr") : 
+console.log("y this is not number") : 
+console.log("x this is 30");;
+
+
+
+
 
 
 
