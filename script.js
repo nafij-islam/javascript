@@ -509,7 +509,11 @@ console.log("y this is not number") :
 console.log("x this is 30");;
 
 
+let heading =document.getElementsByTagName("h1")[0]
+let last    =document.getElementsByTagName("h1")[1]
 
+heading.innerHTML="Saharian"
+last.innerHTML="Nafis"
 
 
 
